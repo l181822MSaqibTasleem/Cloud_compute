@@ -13,7 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "repository": "mstasleem"
+    "repository": "mstasleem/sample-node"
   },
   "deploy": {
     "containerPort": 5000
